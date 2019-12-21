@@ -12,7 +12,6 @@
 
 </head>
 <body>
-    <h1>Test</h1>
     <div id="top">
         <div class="container"><!--Container Begin-->
             <div class="col-md-6 offer"><!--col-md-6 offer Begin-->
@@ -37,7 +36,79 @@
             </div><!--col-md-6 End-->
         </div><!--Container End-->
     </div>
-    <h1>End</h1>
+    <div id="navbar" class="navbar navbar-default"><!--navbar Begin-->
+        <div class="container"><!--Container Begin-->
+            <div class="navbar-header"><!--Navbar Header Begin-->
+                <a href="index.php" class="navbar-brand home"><!--navbar-brand Begin-->
+                
+                    <img src="images\ecom-store-logo.png" alt="Logo" class="hidden-xs">
+                    <img src="images\ecom-store-logo-mobile.png" alt="Logo Mobile" class="visible-xs">
+                
+                </a><!--navbar-brand End-->
+                <button class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
+
+                    <span class="sr-only">Toggle Navigation</span>
+                    <i class="fa fa-align-justify"></i>
+                
+                </button>
+                <button class="navbar-toggle" data-toggle="collapse" data-target="#search">
+
+                    <span class="sr-only">Toggle Search</span>
+                    <i class="fa fa-search"></i>
+                
+                </button>
+
+            </div><!--Navbar Header End-->
+            <div class="navbar-collapse collapse" id="navigation"><!--navbar-collapse collapse Begin-->
+                <div class="padding-nav"><!--Padding Nav Begin-->
+                    <ul class="nav navbar-nav left"><!--nav navbar-nav left Begin-->
+                        <li class="active">
+                            <a href="index.php">Home</a>
+                        </li>
+                        <li>
+                            <a href="shop.php">Shop</a>
+                        </li>
+                        <li>
+                            <a href="checkout.php">My Account</a>
+                        </li>
+                        <li>
+                            <a href="cart.php">Shopping Cart</a>
+                        </li>
+                        <li>
+                            <a href="contact.php">Contact Us</a>
+                        </li>     
+                    </ul><!--nav navbar-nav left end-->
+                </div><!--Padding Nav End-->
+                <a href="cart.php" class="btn navbar-btn btn-primary right"><!--btn navbar-btn btn-primary right Begin-->
+                    <i class="fa fa-shopping-cart"></i>
+                    <span>4 Items in your cart</span>
+                </a><!--btn navbar-btn btn-primary right End-->
+
+                <div class="navbar-collapse collapse right"><!--navbar-collapse collapse right Begin-->
+                    <button class="btn btn-primary navbar-btn" type="button" data-toggle="collapse" data-target="#search"><!--btn btn-primary navbar-btn Begin-->
+
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="fa fa-search"></i>
+
+                    </button><!--btn btn-primary navbar-btn End-->
+                </div><!--navbar-collapse collapse right End-->
+
+                <div class="collapse clearfix" id="search"><!--collapse clearfix Begin-->
+                    <form method="get" action="results.php" class="navbar-form"><!--Navbar-form Begin-->
+                        <div class="input-group"><!--input-group Begin-->
+                            <input type="text" class="form-control" placeholder="Search" name="user_query" required>
+                            <span class="input-group-btn"><button type="submit" name="search" value="Search" class="btn btn-primary"><!--btn btn-primary Begin-->
+
+                                <i class="fa fa-search"></i>
+                            
+                            </button></span><!--btn btn-primary End-->
+                        </div><!--input-group End-->
+                    </form><!--Navbar-form End-->
+                </div><!--collapse clearfix End-->
+
+            </div><!--navbar-collapse collapse End-->
+        </div><!--Container End-->
+    </div><!--navbar End-->
     <script src="js\jquery-331.min.js"></script>
     <script src="js\bootstrap-337.min.js"></script>
 </body>
