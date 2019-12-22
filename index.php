@@ -109,6 +109,46 @@
             </div><!--navbar-collapse collapse End-->
         </div><!--Container End-->
     </div><!--navbar End-->
+    <div class="container" id="slider"><!--container Begin-->
+        <div class="col-md-12"><!--col-md-12 Begin-->
+            <div class="carousel slide" id="myCarousel" data-ride="carousel"><!--carousel slide Begin-->
+                <ol class="carousel-indicators"><!--carousel indicators Begin-->
+                    <li class="active" data-target="#myCarousel" data-slide-to="0"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                </ol><!--carousel indicators End-->
+
+                <div class="carousel-inner"><!--carousel-inner Begin-->
+                    <div class="item active">
+                        <img src="admin_area\slides_images\slide-1.jpg" alt="Slide Image">
+                    </div>
+                    <div class="item">
+                        <img src="admin_area\slides_images\slide-2.jpg" alt="Slide Image">
+                    </div>
+                    <div class="item">
+                        <img src="admin_area\slides_images\slide-3.jpg" alt="Slide Image">
+                    </div>
+                    <div class="item">
+                        <img src="admin_area\slides_images\slide-4.jpg" alt="Slide Image">
+                    </div>
+                </div><!--carousel-inner End-->
+
+                <a href="#myCarousel" class="left carousel-control" data-slide="prev"><!--left carousel-control begin-->
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a><!--left carousel-control end-->
+
+                <a href="#myCarousel" class="right carousel-control" data-slide="next"><!--right carousel-control begin-->
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a><!--right carousel-control end-->
+
+            </div><!--carousel slide End-->
+        </div><!--col-md-12 End-->
+    </div><!--container End-->
+
+
     <script src="js\jquery-331.min.js"></script>
     <script src="js\bootstrap-337.min.js"></script>
 </body>
