@@ -148,6 +148,41 @@
         </div><!--col-md-12 End-->
     </div><!--container End-->
 
+    <div id="advantages"><!--advantages Begin-->
+        <div class="container"><!--container Begin-->
+            <div class="same-height-row"><!--same-height-row Begin-->
+                <div class="col-sm-4"><!--col-sm-4 begin-->
+                    <div class="box same-height"><!--box same-height begin-->
+                        <div class="icon"><!--icon begin-->
+                            <i class="fa fa-heart"></i>
+                        </div><!--icon end-->
+                        <h3><a href="#">Best offers</a></h3>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                    </div><!--box same-height end-->
+                </div><!--col-sm-4 end-->
+
+                <div class="col-sm-4"><!--col-sm-4 begin-->
+                    <div class="box same-height"><!--box same-height begin-->
+                        <div class="icon"><!--icon begin-->
+                            <i class="fa fa-tag"></i>
+                        </div><!--icon end-->
+                        <h3><a href="#">Best prices</a></h3>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                    </div><!--box same-height end-->
+                </div><!--col-sm-4 end-->
+
+                <div class="col-sm-4"><!--col-sm-4 begin-->
+                    <div class="box same-height"><!--box same-height begin-->
+                        <div class="icon"><!--icon begin-->
+                            <i class="fa fa-thumbs-up"></i>
+                        </div><!--icon end-->
+                        <h3><a href="#">100% Original</a></h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    </div><!--box same-height end-->
+                </div><!--col-sm-4 end-->
+            </div><!--same-height-row end-->
+        </div><!--container End-->
+    </div><!--advantages End-->
 
     <script src="js\jquery-331.min.js"></script>
     <script src="js\bootstrap-337.min.js"></script>
