@@ -184,6 +184,183 @@
         </div><!--container End-->
     </div><!--advantages End-->
 
+    <div id="hot"><!--hot Begin-->
+        <div class="box"><!--box begin-->
+            <div class="container"><!--container begin-->
+                <div class="col-md-12"><!--col-md-12 begin-->
+                    <h2>
+                        Our Latest Products
+                    </h2>
+                </div><!--col-md-12 end-->
+            </div><!--container end-->
+        </div><!--box end-->
+    </div><!--hot end-->
+
+    <div id="content" class="container"><!--container begin-->
+        <div class="row"><!--row begin-->
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-1.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product One</a>
+                        </h3>
+                        <p class="price">$300</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-2.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product Two</a>
+                        </h3>
+                        <p class="price">$250</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-1.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product One</a>
+                        </h3>
+                        <p class="price">$300</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-2.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product Two</a>
+                        </h3>
+                        <p class="price">$250</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-2.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product Two</a>
+                        </h3>
+                        <p class="price">$250</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-1.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product One</a>
+                        </h3>
+                        <p class="price">$300</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-2.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product Two</a>
+                        </h3>
+                        <p class="price">$250</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+            <div class="col-sm-4 col-sm-6 single"><!--col-sm-4 col-sm-6 single begin-->
+                <div class="product"><!--product begin-->
+                    <a href="details.php">
+                        <img class="img-responsive" src="admin_area\product_images\product-image-1.jpg" alt="product image">
+                    </a>
+                    <div class="text"><!--text begin-->
+                        <h3>
+                            <a href="details.php">Health Product One</a>
+                        </h3>
+                        <p class="price">$300</p>
+                        <p class="button">
+                            <a href="details.php" class="btn btn-default">View Details</a>
+                            <a href="details.php" class="btn btn-primary">
+                                <i class="fa fa-shopping-cart">Add To Cart</i>
+                            </a>
+                        </p>
+                    </div><!--text end-->
+                </div><!--product end-->
+            </div><!--col-sm-4 col-sm-6 single end-->
+
+        </div><!--row end-->
+    </div><!--container end-->
+
     <script src="js\jquery-331.min.js"></script>
     <script src="js\bootstrap-337.min.js"></script>
 </body>
