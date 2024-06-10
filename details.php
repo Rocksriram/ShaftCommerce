@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>shaftcoins.com_create_guid
 <html lang="en">
 <head>
     <meta charset="UTF-8">
